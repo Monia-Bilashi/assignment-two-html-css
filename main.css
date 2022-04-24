@@ -555,6 +555,7 @@ body {
     width: 100%;
     padding: 50px 0px;
     background-color: gray;
+    border-radius: 10px 10px 0px 0px;
 }
 
 .footer-con-box {
